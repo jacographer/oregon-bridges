@@ -1,5 +1,5 @@
-# oregon-fish
-Where to fish off a bridge in Oregon
+# oregon-bridges
+Where to find river bridges carrying highways in Oregon.
 
 Data:
 - [Bridges 2020](https://spatialdata.oregonexplorer.info/geoportal/details;id=35006b91eff3444c92f53d312b0c0e73)
